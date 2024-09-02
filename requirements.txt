@@ -1,0 +1,4 @@
+prompt_toolkit
+python-dotenv==1.0.0
+pandas
+psycopg2-binary
