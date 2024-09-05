@@ -14,7 +14,7 @@ Systemup Shopify Update is a system designed to automatically update information
    ```bash
    git clone <repository-url>
    cd systemup-shopify-update
-  ```
+   ```
 
 2. **Install the required dependencies**: Run the following command to install all the dependencies specified in the **requirements.txt** file:
     ```bash
@@ -27,9 +27,9 @@ Systemup Shopify Update is a system designed to automatically update information
 ## Running the Application
 To start the application, run the following command:
 
-    ```bash
-    python app.py
-    ```
+   ```bash
+   python app.py
+   ```
 
 ## Notes
 - Make sure that your PostgreSQL database is set up and running before launching the application.
