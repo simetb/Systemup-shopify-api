@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from ftp_downloader import download_ftp_file
 
 # Load environment variables from .env file
-load_dotenv(dotenv_path='./ddbb.env')
+load_dotenv(dotenv_path='./environment/ddbb.env')
 
 # Database connection parameters
 CONN_PARAMS = {

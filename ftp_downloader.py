@@ -4,7 +4,7 @@ import os
 
 def download_ftp_file():
     
-    load_dotenv(dotenv_path='./ftp.env')
+    load_dotenv(dotenv_path='./environment/ftp.env')
 
     FTP_HOST = os.getenv('FTP_HOST')
     FTP_USER = os.getenv('FTP_USER')
